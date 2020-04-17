@@ -1,0 +1,38 @@
+.projet {
+    width: 80%;
+}
+
+.paul_valery,
+.openclassrooms {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.description_paul_valery {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.competence_paul_valery {
+    font-size: 0.9em;
+}
+
+.description_openclassrooms {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.competence_openclassrooms {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.recommandation {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}

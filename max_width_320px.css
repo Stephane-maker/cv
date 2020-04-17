@@ -1,0 +1,29 @@
+.titre_responsive {
+    font-size: 0.8em;
+}
+
+.description_nav {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.8em;
+}
+
+.propos {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-weight: 0.8em;
+}
+
+.paul_valery {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.recommandation {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}

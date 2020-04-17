@@ -1,0 +1,57 @@
+.description_nav {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.propos {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.titre {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.projet {
+    width: 70%;
+}
+
+.paul_valery {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.description_paul_valery {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.competence_paul_valery {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.openclassrooms {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.description_openclassrooms {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.competence_openclassrooms {
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
