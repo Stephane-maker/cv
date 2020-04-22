@@ -1,0 +1,64 @@
+.container {
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+.photo img {
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 15%;
+    width: 320px;
+    height: 320px;
+    border-radius: 160px;
+}
+
+.separateur {
+    font-size: 2rem;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.description_nav {
+    font-size: 2rem;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.propos {
+    width: 70%;
+    font-size: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+}
+
+.container_fontawesome {
+    font-size: 5rem;
+}
+
+.titre_principal {
+    font-size: 2.5rem;
+}
+
+.titre,
+.projet,
+.description,
+.container_article,
+.recommandation {
+    font-size: 2rem;
+}
+
+.paul_valery,
+.openclassrooms {
+    width: 20%;
+    text-align: center;
+    margin-right: 15%;
+}
+
+.recommandation {
+    margin-left: 15%;
+    margin-right: 15%;
+}
