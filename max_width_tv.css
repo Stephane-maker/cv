@@ -44,6 +44,15 @@
     font-size: 2rem;
 }
 
+a {
+    font-size: 2rem;
+}
+
+.titre_principal,
+.titre {
+    border-bottom: 2px solid black;
+}
+
 .paul_valery,
 .openclassrooms {
     width: 20%;

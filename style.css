@@ -37,7 +37,7 @@ nav {
     background-color: #333333;
     color: #ffcc00;
     text-transform: uppercase;
-    padding: 4% 0 4% 0;
+    padding: 1.5% 0 1.5% 0;
     font-family: 'Lobster-Regular', arial, sans-serif;
 }
 
@@ -46,7 +46,7 @@ nav {
     height: 160px;
     border-radius: 80px;
     border: 1px solid black;
-    margin: 10%;
+    margin: 10% 10% 10% 10%;
 }
 
 .propos,
@@ -55,6 +55,10 @@ nav {
     font-size: 20px;
     width: 90%;
     font-family: 'Lobster-Regular', arial, sans-serif;
+}
+
+a {
+    font-size: 1rem;
 }
 
 .container_fontawesome {
@@ -70,11 +74,11 @@ article {
 .titre_principal,
 .titre {
     text-align: center;
-    border-bottom: 1px solid black;
     width: 80%;
-    margin-left: 10%;
+    margin: 0 10% 0 10%;
     font-family: 'Lobster-Regular', arial, sans-serif;
     text-transform: uppercase;
+    border-bottom: 1px solid black;
 }
 
 .container_article {
@@ -99,15 +103,6 @@ article {
 
 .container_recommandation {
     display: flex;
-}
-
-.projet_experience {
-    border: 1px solid black;
-    margin: 0 5% 0 5%;
-    width: 30%;
-    font-weight: bolder;
-    font-family: 'FjallaOne-Regular', arial, sans-serif;
-    text-transform: uppercase;
 }
 
 .recommandation {
