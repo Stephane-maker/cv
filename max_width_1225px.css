@@ -25,25 +25,18 @@ nav {
 
 .separateur {
     margin: 0;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding: 1% 0 1% 0;
 }
 
 .description_nav {
     text-align: left;
     width: 25%;
-    margin-left: 35.5%;
-    margin-right: 35.5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin: 5% 35.5% 5% 35.5%;
 }
 
 .propos {
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 5%;
-    margin-top: 5%;
+    margin: 5% 25% 5% 25%;
 }
 
 .container_article {
@@ -59,36 +52,31 @@ nav {
 
 .description {
     width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0 5% 0 5%;
 }
 
 .paul_valery,
 .openclassrooms {
     width: 20%;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin: 0 40% 0 40%;
     text-align: center;
 }
 
 .description_paul_valery,
 .description_openclassrooms {
     width: 35%;
-    margin-left: 32.5%;
-    margin-right: 32.5%;
+    margin: 0 32.5% 0 32.5%;
     text-align: left;
 }
 
 .competence_paul_valery {
     width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0 5% 0 5%;
 }
 
 .competence_openclassrooms {
     width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0 15% 0 15%;
 }
 
 h4 {
@@ -116,8 +104,5 @@ img {
 
 .recommandation {
     width: 20%;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin: 2% 15% 2% 15%;
 }
