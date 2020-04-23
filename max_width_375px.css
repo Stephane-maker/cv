@@ -1,8 +1,50 @@
-.description_nav,
-.propos,
-.openclassrooms {
-    width: 70%;
-    margin: 0 15% 0 15%;
+.container {
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: none;
+}
+
+.page_responsive {
+    margin-top: 5%;
+}
+
+.container {
+    display: inherit;
+}
+
+nav {
+    display: block;
+    width: 100%;
+    height: auto;
+    font-size: 1.2rem;
+}
+
+.photo {
+    display: none;
+}
+
+.separateur {
+    margin: 0;
+    padding: 1% 0 1% 0;
+}
+
+.description_nav {
+    text-align: left;
+    width: 55%;
+    margin: 5% 22.5% 5% 22.5%;
+    font-size: 1rem;
+}
+
+.propos {
+    width: 80%;
+    margin: 5% 10% 5% 10%;
+}
+
+.container_article {
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 0;
 }
 
 .titre {
@@ -12,16 +54,36 @@
 
 .projet {
     width: 80%;
+    margin-bottom: 2%;
 }
 
-.description_paul_valery {
-    width: 100%;
-    margin: 0;
+.description {
+    width: 90%;
+    margin: 0 5% 0 5%;
 }
 
+.paul_valery {
+    width: 50%;
+    margin: 0 25% 0 25%;
+    text-align: center;
+}
+
+.openclassrooms {
+    width: 60%;
+    text-align: center;
+    margin: 0 20% 0 20%;
+}
+
+.description_paul_valery,
 .description_openclassrooms {
-    width: 100%;
-    margin: 0;
+    width: 80%;
+    margin: 0 10% 0 10%;
+    text-align: left;
+}
+
+.competence_paul_valery {
+    width: 90%;
+    margin: 0 5% 0 5%;
 }
 
 .competence_openclassrooms {
@@ -29,7 +91,34 @@
     margin: 0 10% 0 10%;
 }
 
+h4 {
+    text-align: center;
+}
+
+.titre_responsive {
+    display: inherit;
+    font-family: 'Lobster-Regular', arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+    border-radius: 90px;
+    border: 1px solid black;
+    margin-top: 5%;
+}
+
+.titre_principal {
+    display: none;
+}
+
+.container_recommandation {
+    display: block;
+}
+
 .recommandation {
     width: 50%;
-    margin: 0 25% 10% 25%;
+    margin: 5% 25% 5% 25%;
 }
