@@ -28,12 +28,6 @@
     margin-right: 35%;
 }
 
-.description_openclassrooms {
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-}
-
 .competence_openclassrooms {
     margin-left: 10%;
     width: 70%;
@@ -49,4 +43,16 @@
     margin-right: 37.5%;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.description_openclassrooms {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.competence_openclassrooms {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
 }

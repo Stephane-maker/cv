@@ -79,6 +79,18 @@ nav {
     text-align: left;
 }
 
+.competence_paul_valery {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.competence_openclassrooms {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 h4 {
     text-align: center;
 }
