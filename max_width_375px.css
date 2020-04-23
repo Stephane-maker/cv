@@ -1,13 +1,8 @@
-.description_nav {
+.description_nav,
+.propos,
+.openclassrooms {
     width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
-}
-
-.propos {
-    width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0 15% 0 15%;
 }
 
 .titre {
@@ -24,12 +19,6 @@
     margin: 0;
 }
 
-.openclassrooms {
-    width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
-}
-
 .description_openclassrooms {
     width: 100%;
     margin: 0;
@@ -37,13 +26,10 @@
 
 .competence_openclassrooms {
     width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 0 10% 0 10%;
 }
 
 .recommandation {
-    margin-bottom: 10%;
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 25% 10% 25%;
 }

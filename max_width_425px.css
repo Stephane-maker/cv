@@ -1,19 +1,17 @@
-.description_nav {
+.description_nav,
+.competence_openclassrooms {
     width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin: 0 20% 0 20%;
 }
 
 .propos {
     width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0 15% 0 15%;
 }
 
 .titre {
     width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0 5% 0 5%;
 }
 
 .projet {
@@ -22,43 +20,30 @@
 
 .paul_valery {
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 25% 0 25%;
 }
 
 .description_paul_valery {
     width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0 15% 0 15%;
 }
 
 .competence_paul_valery {
     width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 0 10% 0 10%;
 }
 
 .openclassrooms {
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 25% 0 25%;
 }
 
 .description_openclassrooms {
     width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
-.competence_openclassrooms {
-    width: 60%;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin: 0 5% 0 5%;
 }
 
 .recommandation {
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 10%;
+    margin: 0 25% 10% 25%;
 }
