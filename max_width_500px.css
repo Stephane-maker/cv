@@ -1,15 +1,15 @@
 .description_nav {
-    width: 50%;
-    margin: 0 25% 0 25%;
+    width: 70%;
+    margin: 0 15% 0 15%;
 }
 
 .propos {
-    width: 55%;
-    margin: 0 22.5% 0 22.5%;
+    width: 80%;
+    margin: 0 10% 0 10%;
 }
 
 .projet {
-    width: 70%;
+    width: 80%;
 }
 
 .paul_valery {
@@ -44,5 +44,5 @@
 
 .recommandation {
     width: 40%;
-    margin: 0 30% 0 30%;
+    margin: 10% 30% 10% 30%;
 }
