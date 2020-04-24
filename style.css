@@ -45,12 +45,13 @@ a {
     font-family: 'Lobster-Regular', arial, sans-serif;
 }
 
-.photo img {
-    width: 160px;
-    height: 160px;
-    border-radius: 80px;
-    border: 1px solid black;
-    margin: 10% 10% 10% 10%;
+.photo {
+    width: auto;
+    text-align: center;
+}
+
+img {
+    width: auto;
 }
 
 .propos,
