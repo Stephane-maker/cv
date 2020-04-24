@@ -4,11 +4,14 @@
     margin: auto;
 }
 
-.photo img {
-    margin: 15% 18% 0 18%;
-    width: 320px;
-    height: 320px;
-    border-radius: 160px;
+.photo {
+    margin: 10% 10% 0 10%;
+    width: auto;
+}
+
+img {
+    width: 100%;
+    text-align: center;
 }
 
 .separateur {
