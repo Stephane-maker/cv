@@ -54,12 +54,17 @@ img {
     width: auto;
 }
 
-.propos,
 .description_nav {
     margin: 10% 5% 40% 5%;
     font-size: 20px;
     width: 90%;
     font-family: 'Lobster-Regular', arial, sans-serif;
+}
+
+.propos {
+    margin: 10% 5% 270% 5%;
+    font-family: 'Lobster-Regular', arial, sans-serif;
+    font-size: 20px;
 }
 
 .container_fontawesome {
